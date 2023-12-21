@@ -64,6 +64,9 @@ public class ControllerTransferencias {
 		httpHeaders.setContentType(MediaType.APPLICATION_JSON);
 		return new ResponseEntity <ResponseDto> (response, httpHeaders, HttpStatus.OK);	
     } 
-	
+
+
+
+	// OTRA PERSONA LE MOVIO AL CODIGO DE TRASNFERENCIAS
 	
 }
