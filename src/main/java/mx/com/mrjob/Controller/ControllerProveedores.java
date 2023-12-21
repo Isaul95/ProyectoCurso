@@ -19,7 +19,7 @@ import mx.com.mrjob.Services.IProveedores;
 @Controller
 @RequestMapping("Prov")
 public class ControllerProveedores {
-
+ 
 	@Autowired
 	private IProveedores iProveedores;
 	
